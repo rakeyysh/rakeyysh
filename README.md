@@ -3,10 +3,10 @@
 
 🚀 **Backend / Full-Stack Developer**  
  
-I'm currently working as Backend developer<br>I 'm currently working on NodeJS, ReactJS, and AWS.<br>I 'm interested in Web Development & Problem Solving.<br>Some Technologies I know is  HTML, CSS , JavaScript, ReactJS,NodeJS,ExpressJS,MongoDB and SQL.<br>📫 How to reach me chatterjeearghya02@gmail.com<br>Happy to connect on LinkedIn
+I'm currently working as Backend developer<br>I 'm currently working on NodeJS, ReactJS, and AWS.<br>I 'm interested in Web Development & Problem Solving.<br>Some Technologies I know is  HTML, CSS , JavaScript, ReactJS,NodeJS,ExpressJS,MongoDB and SQL.<br>📫 How to reach me rakeshmishra99020@gmail.com<br>Happy to connect on LinkedIn
 
 
-## 🌐 Connect with me 📞:
+## 🌐 Connect with me 📞
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-mishra-533897217/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/rakeyysh/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshmishra99020@gmail.com) 
