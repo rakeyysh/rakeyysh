@@ -1,4 +1,8 @@
 # 💫 About Me:
+# 👋 Hi there, I'm Rakesh
+
+🚀 **Backend / Full-Stack Developer**  
+ 
 I'm currently working as Backend developer<br>I 'm currently working on NodeJS, ReactJS, and AWS.<br>I 'm interested in Web Development & Problem Solving.<br>Some Technologies I know is  HTML, CSS , JavaScript, ReactJS,NodeJS,ExpressJS,MongoDB and SQL.<br>Happy to connect on LinkedIn
 
 
